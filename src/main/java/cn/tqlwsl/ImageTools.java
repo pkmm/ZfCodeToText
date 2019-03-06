@@ -1,3 +1,4 @@
+package cn.tqlwsl;
 import libsvm.svm_node;
 
 import java.awt.image.BufferedImage;

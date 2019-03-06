@@ -1,3 +1,5 @@
+package cn.tqlwsl;
+
 import libsvm.svm;
 import libsvm.svm_model;
 import libsvm.svm_node;
