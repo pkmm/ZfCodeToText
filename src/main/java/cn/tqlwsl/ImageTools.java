@@ -9,7 +9,7 @@ public class ImageTools {
     private final static int subImageCount = 4;
     private final static int n = 16;
     private final static int m = 21;
-    private final static int n_m = 16 * 21;
+    private final static int n_m = n * m;
 
     /**
      * 把图片转换为向量
